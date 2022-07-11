@@ -1,0 +1,96 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "NOT BELOW T-SHIRT/MATCHA",
+            "price": 89000,
+            "type": "t-shirt",
+            "available": true
+        },
+        {
+            "id": 2,
+            "name": "MULTICOLOL BASIC SHIRT/GREY",
+            "price": 99000,
+            "type": "shirt",
+            "available": true
+        },
+        {
+            "id": 3,
+            "name": "LONG LIVE SWEATER/BEGEI",
+            "price": 119000,
+            "type": "sweater",
+            "available": true
+        },
+        {
+            "id": 4,
+            "name": "ESSENTIAL HOODIE/BEGEI",
+            "price": 0,
+            "type": "hoodie",
+            "available": false
+        },
+        {
+            "id": 5,
+            "name": "ESSENTIAL SHORT/BEGEI",
+            "price": 99000,
+            "type": "short",
+            "available": true
+        },
+        {
+            "id": 6,
+            "name": "VENEZ À MOI PERFUME",
+            "price": 0,
+            "type": "perfume",
+            "available": false
+        },
+        {
+            "id": 7,
+            "name": "COAT JACKET/BEGEI",
+            "price": 189000,
+            "type": "jacket",
+            "available": true
+        },
+        {
+            "id": 8,
+            "name": "SLIPPER 1.0 VERGENCY/BLACK",
+            "price": 195000,
+            "type": "accessory",
+            "available": true
+        }
+    ],
+    "orders": [
+        {
+            "id": 1,
+            "productId": 7,
+            "customerName": "trongphuc",
+            "quantity": 1,
+            "timestamp": 1656062844163
+        },
+        {
+            "id": 2,
+            "productId": 2,
+            "customerName": "trongphuc",
+            "quantity": 1,
+            "timestamp": 1656560297208
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "trongphuc01",
+            "email": "phuc@gmail.com",
+            "password": "trongphuc"
+        },
+        {
+            "id": 2,
+            "username": "trongphuc01",
+            "email": "phuc01@gmail.com",
+            "password": "trongphuc"
+        },
+        {
+            "id": 3,
+            "username": "trongphuc01",
+            "email": "phuc02@gmail.com",
+            "password": "trongphuc"
+        }
+    ]
+}

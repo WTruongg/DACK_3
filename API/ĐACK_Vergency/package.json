@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "scripts": {
+    "start": "json-server --watch database.json",
+    "start-auth": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
